@@ -1,5 +1,15 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "xminotes",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 12, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -7,6 +17,7 @@
     "text": "About this blog"
   },
   {
+<<<<<<< HEAD
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mixnotes",
@@ -14,6 +25,8 @@
     "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 13, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 10, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
+=======
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -25,6 +38,10 @@
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
+<<<<<<< HEAD
     "text": "This is a post with executable code."
+=======
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
   }
 ]

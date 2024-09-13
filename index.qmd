@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: "Mixnotes"
+=======
+title: "xminotes"
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
 listing:
   contents: posts
   sort: "date desc"
@@ -10,5 +14,8 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8

@@ -1,7 +1,11 @@
 ---
 title: "Welcome To My Blog"
 author: "Tristan O'Malley"
+<<<<<<< HEAD
 date: "2024-09-10"
+=======
+date: "2024-09-09"
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
 categories: [news]
 ---
 

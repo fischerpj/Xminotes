@@ -2,7 +2,11 @@ project:
   type: website
 
 website:
+<<<<<<< HEAD
   title: "Mixnotes"
+=======
+  title: "xminotes"
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
   navbar:
     right:
       - about.qmd
@@ -15,5 +19,9 @@ format:
     theme: cosmo
     css: styles.css
 
+<<<<<<< HEAD
 
+=======
+editor: visual
+>>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
 
