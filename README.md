@@ -28,4 +28,4 @@ git branch -M master
 
 git remote add origin https://github.com/fischerpj/Xminotes.git
 
-git push -u origin master
+git push origin master
