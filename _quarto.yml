@@ -1,12 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-<<<<<<< HEAD
-  title: "Mixnotes"
-=======
-  title: "xminotes"
->>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
+  title: "xnotes"
   navbar:
     right:
       - about.qmd
@@ -18,10 +15,4 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
-<<<<<<< HEAD
-
-=======
 editor: visual
->>>>>>> 3d225eab81b78853c3a269f0ca81f4c8698598a8
-
